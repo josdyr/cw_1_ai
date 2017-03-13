@@ -39,7 +39,7 @@ namespace CW_JOS
         {
             List<Node> nodeMap = new List<Node>(); //hold all nodes in this list
 
-            string data = System.IO.File.ReadAllText(@"c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\input.cav");
+            string data = System.IO.File.ReadAllText(@"c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\input2.cav");
             string[] stringData = data.Split(',');
             int[] intData = Array.ConvertAll(stringData, s => int.Parse(s));
             Console.WriteLine(data);
@@ -155,7 +155,7 @@ namespace CW_JOS
                 current = current.parent;
             } while (!current.Equals(target));
 
-            //print myPath
+            //print myPath  
             Console.WriteLine("size: " + myPath.Count);
             for (int i = 0; i < myPath.Count; i++) {
                 Console.WriteLine(myPath[i].printNode());
