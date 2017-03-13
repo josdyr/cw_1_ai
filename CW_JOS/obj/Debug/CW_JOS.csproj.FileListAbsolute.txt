@@ -1,0 +1,14 @@
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\bin\Debug\CW_JOS.exe.config
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\bin\Debug\CW_JOS.exe
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\bin\Debug\CW_JOS.pdb
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\CW_JOS.csprojResolveAssemblyReference.cache
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\MainWindow.g.cs
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\App.g.cs
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\CW_JOS_MarkupCompile.cache
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\CW_JOS_MarkupCompile.lref
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\MainWindow.baml
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\CW_JOS.g.resources
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\CW_JOS.Properties.Resources.resources
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\CW_JOS.csproj.GenerateResource.Cache
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\CW_JOS.exe
+c:\users\josdyr\documents\visual studio 2015\Projects\CW_JOS\CW_JOS\obj\Debug\CW_JOS.pdb
